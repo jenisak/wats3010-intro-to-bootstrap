@@ -1,4 +1,4 @@
-# Intro to Bootstrap
+gr# Intro to Bootstrap
 
 For this project you will engage with a powerful CSS framework called Bootstrap.
 Bootstrap is known for its ease of use and flexibility. It has become one of the
@@ -7,7 +7,7 @@ most common CSS frameworks in use on modern websites, and it shows up everwhere.
 For additional information about Bootstrap please reference the
 [Official Bootstrap Documentation Site](https://getbootstrap.com/).
 
-In this project you will be asked to assemble a linked website for an imaginary
+In this project you will be asked to assemble a linked websi  te for an imaginary
 business. You will be required to fill in certain aspects of the code, provide
 some images and/or media files, and make certain elements responsive to
 different viewport sizes.
