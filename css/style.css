@@ -1,4 +1,7 @@
 /* Custom styles go here. */
 .carousel-caption h2{
+  color: White;
   opacity: 0.75;
+  padding-bottom: 10px;
+  padding-left: 100px;
 }
